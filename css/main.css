@@ -1,0 +1,41 @@
+		*{
+				font-family: 'Raleway', sans-serif;
+		}
+
+		h1{
+
+		color: red;
+		font-weight: 500;
+		font-family: Arial;
+		font-size:20px;
+
+
+		}
+		
+		img {
+
+		color:blue;
+		margin: 1px;
+		border:solid;
+
+		}
+
+		p{
+		color:yellow;
+		font-size: 14px;
+
+		}
+
+		h2{
+			color:black;
+			font-size: 16px;
+			font-family: 'Raleway', sans-serif;
+
+		}
+		a img{
+			border-width: 0;
+			width: 50px;
+			height: 50px;
+		}
+		
+
